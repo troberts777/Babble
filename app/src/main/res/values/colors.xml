@@ -15,5 +15,6 @@
     <color name="gold1">#ffcc33</color>
     <color name="gold2">#fea832</color>
     <color name="blue_grey">#D0D7DF</color>
-
+    <color name="dark_grey1">#6F7B7F</color>
+    <color name="dark_grey2">#D0D7DF</color>
 </resources>
