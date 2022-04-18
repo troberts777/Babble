@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Babble</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="user_created_successfully">User Created Successfully</string>
+    <string name="signup_failed">Signup Failed : %1$s</string>
+    <string name="create_account">Create Account</string>
 </resources>
